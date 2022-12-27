@@ -1,0 +1,19 @@
+#menu {
+  display: flex;
+  flex-direction: column;
+  width: 280px !important ;
+  height: 100vh;
+
+  color: white;
+}
+
+#slogan {
+padding-left: 30px !important;
+}
+hr.solid {
+  border-top: 3px solid #bbb !important;
+}
+
+body {
+  margin:0;
+}
